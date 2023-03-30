@@ -9,6 +9,8 @@ public abstract class abstract1 {
 	public void add()
 	{
 		System.out.println("HELLO");
+		System.out.println("PAVAN");
+		System.out.println("KALYAN");
 	}
 	public abstract void sub();
 
